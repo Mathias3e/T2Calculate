@@ -14,6 +14,8 @@ Die Erweiterung kann über den Chrome Web Store installiert werden.
 
 > Link kommt noch
 
+Alternativ kann das Zip-File bei den Erweiterungen hineingezogen werden.
+
 ## Verwendung
 
 Nach der Installation ist nichts weiter zu tun. Sobald du in Time2Learn deine Noten anschaust, wird der Durchschnitt autmatisch anzeigt.
