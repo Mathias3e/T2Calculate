@@ -1,0 +1,28 @@
+{
+  "manifest_version": 3,
+  "name": "T2Calculate",
+  "description": "In Time2Learn wird der Notendurchschnitt für BMS, BFS und ÜK pro Semester automatisch lokal berechnet und angezeigt.",
+  "version": "1.1",
+    "icons": {
+    "16": "images/favicon-16x16.png",
+    "48": "images/android-chrome-192x192.png",
+    "128": "images/android-chrome-512x512.png"
+  },
+  "action": {
+    "default_icon": {
+      "16": "images/favicon-16x16.png",
+      "32": "images/favicon-32x32.png"
+    }
+  },
+  "content_scripts": [
+    {
+      "js": [
+        "logic.js"
+      ],
+      "matches": [
+        "https://go.time2learn.ch/*/QualificationProcedures/SchoolMarks/*"
+      ],
+      "run_at": "document_end"
+    }
+  ]
+}
