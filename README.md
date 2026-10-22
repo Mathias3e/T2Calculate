@@ -2,8 +2,6 @@
 
 Chrome-Erweiterung, die in Time2Learn den Notendurchschnitt für BMS, BFS und ÜK pro Semester automatisch **lokal** berechnet und anzeigt.
 
----
-
 ## Screenshot
 
 <img width="640" height="400" alt="Screenshot 2026-10-22 125359" src="https://github.com/user-attachments/assets/78b95e02-f024-4e4d-ae06-702e05ff4585" />
