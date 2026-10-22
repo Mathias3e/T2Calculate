@@ -14,7 +14,7 @@ Die Erweiterung kann über den Chrome Web Store installiert werden.
 
 > Link kommt noch
 
-Alternativ kann das Zip-File bei den Erweiterungen hineingezogen werden.
+Alternativ kann man die Erweiterung als Zip herunterladen.
 
 ## Verwendung
 
