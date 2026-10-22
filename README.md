@@ -18,7 +18,7 @@ Nach der Installation ist nichts weiter zu tun. Sobald du in Time2Learn deine No
 
 ## Datenschutz
 
-Diese Erweiterung liest auf der Notenseite von go.time2learn.ch die angezeigten Fachbezeichnungen und Noten aus, um daraus Durchschnitte zu berechnen.
+Diese Erweiterung liest auf der Notenseite von go.time2learn.ch die Namen angezeigten Fächer und Noten aus, um daraus Durchschnitte zu berechnen.
 
 - Die Verarbeitung erfolgt ausschliesslich **lokal** im Browser.
 - Es werden **keine Daten gespeichert**.
